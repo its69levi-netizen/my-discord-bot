@@ -1,0 +1,9 @@
+.env
+*.env
+.env.*
+levels.json
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+.DS_Store
